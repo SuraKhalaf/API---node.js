@@ -1,0 +1,19 @@
+{
+  "name": "tweetapp",
+  "version": "1.0.0",
+  "description": "App tweet for Advanced Software Engineering Harri",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sura Khlouf",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
